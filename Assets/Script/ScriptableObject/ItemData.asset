@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: ItemData
   m_EditorClassIdentifier: 
   itemName: 
-  rarity: 0
+  rarity: 3
   icon: {fileID: 0}
-  itemType: 0
+  itemType: 2
   stats:
     strength: 0
     agility: 0
